@@ -1,0 +1,21 @@
+## AXES
+axes.titlesize  : 24
+axes.labelsize  : 16
+lines.linewidth : 2
+lines.color     : black
+xtick.labelsize : 16
+ytick.labelsize : 16
+xtick.color     : 1e1e1e
+ytick.color     : 1e1e1e
+
+
+## Figure
+figure.figsize  : 10, 7
+
+## GRID
+grid.color      : 93a1a1
+grid.alpha      : 0.3
+grid.linestyle  : -
+grid.linewidth  : 0.8
+axes.grid.axis  : both
+axes.grid       : true
